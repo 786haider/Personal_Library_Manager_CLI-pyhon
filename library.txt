@@ -1,0 +1,10 @@
+[
+    {
+        "title": "My Life",
+        "author": "Haider Huusain",
+        "year": 2025,
+        "genre": "1",
+        "read": true,
+        "date_added": "2025-03-19"
+    }
+]
